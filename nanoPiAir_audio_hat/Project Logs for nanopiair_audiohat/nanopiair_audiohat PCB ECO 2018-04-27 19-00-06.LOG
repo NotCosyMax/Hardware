@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=P1-9
+Removed Pin From Net: NetName=GND Pin=P1-14
+Removed Pin From Net: NetName=3V3 Pin=P1-17
+Removed Pin From Net: NetName=GND Pin=P1-20
+Change Component Comment : Designator=P1 Old Comment=Header 12X2 New Comment=debug
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change component parameters: Designator = "P1"; Footprint = "DEBUG"; UniqueID = "\OAWBYFDH"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=P?(HDR2X12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-9
+Added Pin To Net: NetName=GND Pin=P?-14
+Added Pin To Net: NetName=3V3 Pin=P?-17
+Added Pin To Net: NetName=GND Pin=P?-20
+Added Member To Class: ClassName=nanopiair_audiohat Member=Component P? Header 12X2
+Added Member To Class: ClassName=nanopiair_audiohat Member=Component R13 Res1
+Added Member To Class: ClassName=nanopiair_audiohat Member=Component R14 Res1
+Added Member To Class: ClassName=nanopiair_audiohat Member=Component R15 Res1
+Added Room: Name=nanopiair_audiohat

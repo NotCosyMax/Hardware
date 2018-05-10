@@ -1,0 +1,11 @@
+Added Component: Designator=P1(2x5 1.27mm header)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=3V3 Pin=P1-2
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_6 Pin=P1-6
+Added Pin To Net: NetName=NetL12_1 Pin=P1-7
+Added Pin To Net: NetName=NetP1_8 Pin=P1-8
+Added Pin To Net: NetName=NetP1_10 Pin=P1-10
+Added Member To Class: ClassName=nanopiair_audiohat Member=Component P1 debug
+Added Room: Name=nanopiair_audiohat

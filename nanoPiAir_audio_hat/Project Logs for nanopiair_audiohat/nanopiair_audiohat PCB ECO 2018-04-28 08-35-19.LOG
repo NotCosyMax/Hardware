@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=NetP2_1_2 New Net Name=USB2_P
+Change Net Name : Old Net Name=NetP2_1_3 New Net Name=USB2_N
+Change Net Name : Old Net Name=NetP2_1_4 New Net Name=USB3_P
+Change Net Name : Old Net Name=NetP2_1_5 New Net Name=USB3_N
+Added Differential Pair: Name=USB2
+Added Differential Pair: Name=USB3
+Added Room: Name=nanopiair_audiohat

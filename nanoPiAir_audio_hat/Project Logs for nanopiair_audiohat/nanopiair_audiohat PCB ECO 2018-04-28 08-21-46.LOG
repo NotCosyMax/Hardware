@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetC16_2 Pin=C15-2
+Added Pin To Net: NetName=NetC16_2 Pin=R7-2
+Added Pin To Net: NetName=NetC16_2 Pin=R13-2
+Added Pin To Net: NetName=NetC16_2 Pin=R15-2
+Change Net Name : Old Net Name=NetC16_2 New Net Name=USBPI_N
+Added Member To Class: ClassName=nanopiair_audiohat Member=Component P1 debug
+Added Room: Name=nanopiair_audiohat
