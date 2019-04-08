@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U1-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Added Component: Designator=C26(C_0402_RF_IN_OUT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1.3pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=R11-2
+Added Net: Name=NetC26_1
+Added Member To Class: ClassName=nanopiair_audiohat Member=Component C26 
+Added Room: Name=nanopiair_audiohat

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=VDDDC5V Pin=C57-1
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U2-V
+Removed Pin From Net: NetName=GND Pin=U3-V
+Removed Pin From Net: NetName=GND Pin=U3-V
+Removed Pin From Net: NetName=GND Pin=U3-V
+Removed Pin From Net: NetName=GND Pin=U3-V
+Removed Pin From Net: NetName=AGND Pin=U6-V
+Removed Pin From Net: NetName=AGND Pin=U6-V
+Added Pin To Net: NetName=NetL17_1 Pin=C57-1
+Change Net Name : Old Net Name=NetL17_1 New Net Name=NetC57_1
+Added Room: Name=audio_usb
+Added Room: Name=connectors_and_power
+Added Room: Name=purepath
+Added Room: Name=pwr_brk
+Added Room: Name=rf_frontend

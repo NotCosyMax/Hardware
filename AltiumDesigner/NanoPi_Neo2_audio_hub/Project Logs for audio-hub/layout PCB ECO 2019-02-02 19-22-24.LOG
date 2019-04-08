@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=purepath Member=C1
+Removed Member From Class: ClassName=rf_frontend Member=C1
+Removed Member From Class: ClassName=purepath Member=C2
+Removed Member From Class: ClassName=rf_frontend Member=C2
+Removed Member From Class: ClassName=connectors_and_power Member=C5
+Removed Member From Class: ClassName=rf_frontend Member=C5
+Removed Member From Class: ClassName=connectors_and_power Member=C7
+Removed Member From Class: ClassName=rf_frontend Member=C7
+Removed Member From Class: ClassName=rf_frontend Member=C9
+Removed Member From Class: ClassName=rf_frontend Member=C10
+Removed Member From Class: ClassName=rf_frontend Member=C14
+Removed Member From Class: ClassName=rf_frontend Member=C17
+Removed Member From Class: ClassName=purepath Member=C23
+Removed Member From Class: ClassName=purepath Member=C25
+Removed Member From Class: ClassName=purepath Member=C27
+Removed Member From Class: ClassName=purepath Member=C29
+Removed Member From Class: ClassName=purepath Member=C31
+Removed Member From Class: ClassName=rf_frontend Member=L4
+Removed Member From Class: ClassName=rf_frontend Member=L6
+Removed Member From Class: ClassName=rf_frontend Member=L7
+Removed Member From Class: ClassName=purepath Member=L12
+Removed Member From Class: ClassName=purepath Member=L14
+Removed Member From Class: ClassName=purepath Member=P2
+Removed Member From Class: ClassName=rf_frontend Member=R1
+Removed Member From Class: ClassName=connectors_and_power Member=R4
+Removed Member From Class: ClassName=rf_frontend Member=R4
+Removed Member From Class: ClassName=purepath Member=R7
+Change Component Footprint: Designator=L12 Old Footprint=L_0402_RF_IN_OUT New Footprint=R_0402_IN_OUT
+Added Member To Class: ClassName=connectors_and_power Member=Component * TOTX117PL
+Added Member To Class: ClassName=connectors_and_power Member=Component * TORX117PL
+Added Member To Class: ClassName=connectors_and_power Member=Component * MJ-2135
+Added Member To Class: ClassName=connectors_and_power Member=Component * MJ-2135
+Added Member To Class: ClassName=connectors_and_power Member=Component * RGB
+Added Member To Class: ClassName=rf_frontend Member=Component C22 
+Added Member To Class: ClassName=rf_frontend Member=Component L13 Inductor
+Added Member To Class: ClassName=purepath Member=Component P6 Debug heder

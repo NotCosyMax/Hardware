@@ -1,0 +1,31 @@
+Elektrolytkondingar:
+
+10 uF
+4.7 uF
+(storlek som nedan)
+https://se.farnell.com/multicomp/mcvvt6r3m470da1l/kond-alu-elek-47-f-6-3v-rad-can/dp/2611420?ost=261-1420&ddkey=https%3Ase-SE%2FElement14_Sweden%2Fsearch
+
+https://se.farnell.com/panasonic/eca2aam101x/cap-100-f-100v-20/dp/8767661
+https://se.farnell.com/on-semiconductor/1n4007rlg/diode-standard-1a-1kv-axial/dp/2317417?st=likriktare
+
+https://se.farnell.com/murata/dfe201610e-1r5m-p2/inductor-1-5uh-2-4a-0806-shielded/dp/2776797
+
+Kristaller:
+
+https://se.farnell.com/txc/7m-48-000maaj-t/xtal-48-000mhz-18pf-smd-3-2x2/dp/1842076?st=7M-48.000
+https://se.farnell.com/multicomp/mcsjk-7u-48-00-10-30-60-b-30/kristall-48mhz-10pf-3-2mm-x-2/dp/2854007
+
+https://se.farnell.com/multicomp/mcsjk-7u-12-00-10-10-80-b-10/kristall-12mhz-10pf-3-2mm-x-2/dp/2853914
+
+Sampla:
+
+REG103UA-A
+http://www.ti.com/product/TLV758P/samplebuy
+
+lmr33620
+
+http://www.ti.com/product/PCM2902C
+
+Links:
+https://eu.mouser.com/datasheet/2/408/totx177(f,t)-1209499.pdf
+https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/TORX177PL,F,T.pdf

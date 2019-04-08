@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=* NewDesignator=D1
+Change Component Designator: OldDesignator=J1 NewDesignator=J5
+Added Member To Class: ClassName=connectors_and_power Member=Component D1 RGB
+Added Member To Class: ClassName=connectors_and_power Member=Component J5 Micro USB Jack

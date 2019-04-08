@@ -1,0 +1,24 @@
+Replace Part ANT1 SMA RP Antenna in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with SMA RP Antenna from Connectors.SchLib
+Replace Part ANT2 Inverted F ANT in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Inverted F ANT from Passive Components.SchLib
+Replace Part C20 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C21 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C22 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C23 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C24 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C25 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C26 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C27 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C28 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C29 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C30 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C31 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C32 Cap in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part L12 Inductor in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L13 Inductor in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L14 Inductor in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L15 Inductor in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part R6 Res1 in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R7 Res1 in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R8 Res1 in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R9 Res1 in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part U3 CC2592RGVT in D:\git\Hardware\AltiumDesigner\NanoPi_Neo2_audio_hub\rf_frontend.SchDoc with CC2592RGVT from CC2592.SchLib

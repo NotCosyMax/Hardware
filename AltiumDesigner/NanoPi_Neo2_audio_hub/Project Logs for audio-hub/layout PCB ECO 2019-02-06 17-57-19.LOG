@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetC36_1 Pin=C44-2
+Removed Pin From Net: NetName=AGND Pin=C45-1
+Removed Pin From Net: NetName=NetC36_1 Pin=C45-2
+Removed Pin From Net: NetName=AGND Pin=C46-1
+Removed Pin From Net: NetName=5V Pin=C46-2
+Removed Pin From Net: NetName=NetC36_1 Pin=R14-2
+Removed Pin From Net: NetName=AGND Pin=R16-1
+Removed Pin From Net: NetName=NetC36_1 Pin=U6-1
+Removed Pin From Net: NetName=NetC36_1 Pin=U6-2
+Removed Pin From Net: NetName=AGND Pin=U6-4
+Removed Pin From Net: NetName=NetU1_28 Pin=U6-5
+Removed Pin From Net: NetName=5V Pin=U6-7
+Removed Pin From Net: NetName=5V Pin=U6-8
+Removed Member From Class: ClassName=audio_usb Member=C44
+Removed Member From Class: ClassName=audio_usb Member=C45
+Removed Member From Class: ClassName=audio_usb Member=C46
+Removed Member From Class: ClassName=audio_usb Member=R14
+Removed Member From Class: ClassName=audio_usb Member=R16
+Removed Member From Class: ClassName=audio_usb Member=U6
+Added Room: Name=purepath
+Added Room: Name=rf_frontend

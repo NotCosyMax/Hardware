@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=U5
+Change Component Designator: OldDesignator=* NewDesignator=U4
+Change Net Name : Old Net Name=Net*1_5 New Net Name=NetC4_2
+Change Net Name : Old Net Name=Net*_5 New Net Name=NetC2_2
+Added Room: Name=audio_usb
+Added Room: Name=connectors_and_power
+Added Room: Name=purepath
+Added Room: Name=rf_frontend

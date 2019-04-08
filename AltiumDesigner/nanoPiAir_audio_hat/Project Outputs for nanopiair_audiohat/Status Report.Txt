@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [nanopiair_audiohat.PrjPCB]
+   Generated File[nanopiair_audiohat.TXT]
+   Generated File[nanopiair_audiohat.LDP]
+   Generated File[nanopiair_audiohat.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:03:47 On 2018-09-26

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [audio-hub.PrjPCB]
+   Generated File[layout-RoundHoles.TXT]
+   Generated File[layout-SlotHoles.TXT]
+   Generated File[layout.LDP]
+   Generated File[layout.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:08:55 On 2019-03-17

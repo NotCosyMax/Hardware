@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C56
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Added Pin To Net: NetName=GND2 Pin=C56-1
+Added Pin To Net: NetName=GND2 Pin=C56-2
+Added Pin To Net: NetName=GND2 Pin=D3-2
+Added Pin To Net: NetName=GND2 Pin=D5-2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD4_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-1
+Added Net: Name=NetD2_2
+Added Member To Class: ClassName=pwr_brk Member=Component D3 Diode 1N4007
+Added Member To Class: ClassName=pwr_brk Member=Component D4 Diode 1N4007
+Added Member To Class: ClassName=pwr_brk Member=Component D5 Diode 1N4007

@@ -1,0 +1,91 @@
+Added Component: Designator=C57(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C58(CAPC2012X14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C59(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Added Component: Designator=C60(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C61(CAPC1608X05N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C62(CAPC1608X05N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C63(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=L17(INDC2016X10N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5 uH"; VariantName = "[No Variations]"
+Added Component: Designator=R26(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R27(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "24.9k"; VariantName = "[No Variations]"
+Added Component: Designator=U7(RNX0012B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LMR33620ARNXR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND2 Pin=C58-1
+Added Pin To Net: NetName=VDDAC Pin=C58-2
+Added Pin To Net: NetName=GND2 Pin=C59-1
+Added Pin To Net: NetName=VDDAC Pin=C59-2
+Added Pin To Net: NetName=GND2 Pin=C61-1
+Added Pin To Net: NetName=GND2 Pin=C62-1
+Added Pin To Net: NetName=GND2 Pin=C63-1
+Added Pin To Net: NetName=GND2 Pin=R27-2
+Added Pin To Net: NetName=GND2 Pin=U7-1
+Added Pin To Net: NetName=VDDAC Pin=U7-2
+Added Pin To Net: NetName=VDDAC Pin=U7-9
+Added Pin To Net: NetName=VDDAC Pin=U7-10
+Added Pin To Net: NetName=GND2 Pin=U7-11
+Added Pin To Net: NetName=NetC57_2 Pin=C57-2
+Added Pin To Net: NetName=NetC57_2 Pin=U7-4
+Added Net: Name=NetC57_2
+Added Pin To Net: NetName=NetC60_1 Pin=C60-1
+Added Pin To Net: NetName=NetC60_1 Pin=R26-2
+Added Pin To Net: NetName=NetC60_1 Pin=R27-1
+Added Pin To Net: NetName=NetC60_1 Pin=U7-7
+Added Net: Name=NetC60_1
+Added Pin To Net: NetName=NetC63_2 Pin=C63-2
+Added Pin To Net: NetName=NetC63_2 Pin=U7-5
+Added Net: Name=NetC63_2
+Added Pin To Net: NetName=NetL17_1 Pin=L17-1
+Added Pin To Net: NetName=NetL17_1 Pin=U7-3
+Added Pin To Net: NetName=NetL17_1 Pin=U7-12
+Added Net: Name=NetL17_1
+Added Pin To Net: NetName=VDDDC5V Pin=C57-1
+Added Pin To Net: NetName=VDDDC5V Pin=C60-2
+Added Pin To Net: NetName=VDDDC5V Pin=C61-2
+Added Pin To Net: NetName=VDDDC5V Pin=C62-2
+Added Pin To Net: NetName=VDDDC5V Pin=L17-2
+Added Pin To Net: NetName=VDDDC5V Pin=R26-1
+Added Net: Name=VDDDC5V
+Added Member To Class: ClassName=pwr_brk Member=Component C57 
+Added Member To Class: ClassName=pwr_brk Member=Component C58 
+Added Member To Class: ClassName=pwr_brk Member=Component C59 
+Added Member To Class: ClassName=pwr_brk Member=Component C60 
+Added Member To Class: ClassName=pwr_brk Member=Component C61 
+Added Member To Class: ClassName=pwr_brk Member=Component C62 
+Added Member To Class: ClassName=pwr_brk Member=Component C63 
+Added Member To Class: ClassName=pwr_brk Member=Component L17 Inductor
+Added Member To Class: ClassName=pwr_brk Member=Component R26 Res1
+Added Member To Class: ClassName=pwr_brk Member=Component R27 Res1
+Added Member To Class: ClassName=pwr_brk Member=Component U7 LMR33620ARNXR

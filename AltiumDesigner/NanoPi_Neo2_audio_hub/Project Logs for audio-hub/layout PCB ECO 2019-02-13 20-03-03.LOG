@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=NetR10_1 New Net Name=AUDIO_USB_P
+Change Net Name : Old Net Name=NetR12_2 New Net Name=AUDIO_USB_N
+Added Differential Pair: Name=AUDIO_USB
+Added Room: Name=audio_usb
+Added Room: Name=connectors_and_power
+Added Room: Name=purepath
+Added Room: Name=rf_frontend

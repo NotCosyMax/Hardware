@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C58 Old Footprint=CAPC2012X14N New Footprint=CAPC1608X05N
+Added Component: Designator=C64(CAPC1608X05N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C65(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND2 Pin=C64-1
+Added Pin To Net: NetName=VDDAC Pin=C64-2
+Added Pin To Net: NetName=GND2 Pin=C65-1
+Added Pin To Net: NetName=VDDAC Pin=C65-2
+Added Member To Class: ClassName=pwr_brk Member=Component C64 
+Added Member To Class: ClassName=pwr_brk Member=Component C65 

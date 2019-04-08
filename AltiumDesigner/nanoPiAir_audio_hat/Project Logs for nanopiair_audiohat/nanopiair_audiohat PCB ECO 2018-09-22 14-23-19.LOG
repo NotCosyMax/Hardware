@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=P2_1-12
+Removed Pin From Net: NetName=GND Pin=P2_2-8
+Change Component Footprint: Designator=P2_2 Old Footprint=HDR1X8 New Footprint=HDR1X7
+Change Component Footprint: Designator=P2_1 Old Footprint=HDR1X12 New Footprint=HDR1X11
+Change Component Footprint: Designator=P2 Old Footprint=HDR2X12 New Footprint=HDR2X11
+Change Component Comment : Designator=P2_1 Old Comment= New Comment=Header 11
+Change Component Comment : Designator=P2_2 Old Comment=Header 8 New Comment=Header 7
+Change Component Comment : Designator=P2 Old Comment=Header 12X2 New Comment=Header 11X2
+Added Room: Name=nanopiair_audiohat
