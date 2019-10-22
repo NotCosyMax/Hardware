@@ -1,0 +1,243 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 11 2.435 1.6239764 0 N empty_name LMR33620ARNXR ;0=1,1=0.0000
+TOP 0 2.3995669 1.6682677 180 N 20 28 empty_name-1
+TOP 1 2.3995669 1.6426772 180 N 2 11 empty_name-2
+TOP 2 2.3995669 1.6170866 180 N 15 3 empty_name-3
+TOP 3 2.3995669 1.5974016 180 N 14 0 empty_name-4
+TOP 4 2.415315 1.5688583 270 N 12 1 empty_name-5
+TOP 5 2.435 1.5688583 270 N 20 13 empty_name-6
+TOP 6 2.454685 1.5688583 270 N 13 1 empty_name-7
+TOP 7 2.4704331 1.5974016 180 N 0 1 empty_name-8
+TOP 8 2.4704331 1.6170866 180 N 2 10 empty_name-9
+TOP 9 2.4704331 1.6426772 180 N 2 9 empty_name-10
+TOP 10 2.4704331 1.6682677 180 N 20 12 empty_name-11
+TOP 11 2.435 1.655 90 N 15 2 empty_name-12
+#
+# CMP 1
+CMP 11 2.435 1.186496 0 N empty_name LMR33620ARNXR ;0=1,1=0.0000
+TOP 0 2.3995669 1.2307873 180 N 20 22 empty_name-1
+TOP 1 2.3995669 1.2051968 180 N 1 12 empty_name-2
+TOP 2 2.3995669 1.1796062 180 N 19 3 empty_name-3
+TOP 3 2.3995669 1.1599212 180 N 18 0 empty_name-4
+TOP 4 2.415315 1.1313779 270 N 16 1 empty_name-5
+TOP 5 2.435 1.1313779 270 N 20 23 empty_name-6
+TOP 6 2.454685 1.1313779 270 N 17 1 empty_name-7
+TOP 7 2.4704331 1.1599212 180 N 0 0 empty_name-8
+TOP 8 2.4704331 1.1796062 180 N 1 8 empty_name-9
+TOP 9 2.4704331 1.2051968 180 N 1 9 empty_name-10
+TOP 10 2.4704331 1.2307873 180 N 20 21 empty_name-11
+TOP 11 2.435 1.2175196 90 N 19 2 empty_name-12
+#
+# CMP 2
+CMP 11 2.4972835 1.51 180 N empty_name Res1 ;0=1,1=0.0157
+TOP 0 2.515 1.51 90 N 13 2 empty_name-1
+TOP 1 2.4795669 1.51 90 N 20 14 empty_name-2
+#
+# CMP 3
+CMP 11 2.515 1.5822835 90 N empty_name Res1 ;0=1,1=0.0157
+TOP 0 2.515 1.6 0 N 3 6 empty_name-1
+TOP 1 2.515 1.5645669 0 N 13 3 empty_name-2
+#
+# CMP 4
+CMP 11 2.4927166 1.075 180 N empty_name Res1 ;0=1,1=0.0157
+TOP 0 2.5104331 1.075 90 N 17 3 empty_name-1
+TOP 1 2.475 1.075 90 N 20 20 empty_name-2
+#
+# CMP 5
+CMP 11 2.515 1.145 90 N empty_name Res1 ;0=1,1=0.0157
+TOP 0 2.515 1.1627165 0 N 2 16 empty_name-1
+TOP 1 2.515 1.1272834 0 N 17 2 empty_name-2
+#
+# CMP 6
+CMP 11 2.08 1.47 0 N empty_name QNPN ;0=1,1=0.0449
+TOP 0 2.0357087 1.5074016 270 N 6 0 empty_name-1
+TOP 1 2.0357087 1.4325985 270 N 20 34 empty_name-2
+TOP 2 2.1242914 1.47 270 N 7 1 empty_name-3
+#
+# CMP 7
+CMP 11 2.0792913 1.6175984 0 N empty_name QNPN ;0=1,1=0.0449
+TOP 0 2.035 1.655 270 N 5 0 empty_name-1
+TOP 1 2.035 1.5801969 270 N 20 29 empty_name-2
+TOP 2 2.1235827 1.6175984 270 N 8 1 empty_name-3
+#
+# CMP 8
+CMP 11 2.0792913 1.7674015 0 N empty_name QNPN ;0=1,1=0.0449
+TOP 0 2.035 1.8048031 270 N 4 1 empty_name-1
+TOP 1 2.035 1.73 270 N 20 31 empty_name-2
+TOP 2 2.1235827 1.7674015 270 N 9 1 empty_name-3
+#
+# CMP 9
+CMP 7 2.69 1.83 90 N 3V3 Header_4 ;0=2,1=0.0000
+TOP 0 2.69 1.83 90 N 3 2 3V3-1
+TOP 1 2.69 1.73 90 N 3 1 3V3-2
+TOP 2 2.69 1.63 90 N 20 7 3V3-3
+TOP 3 2.69 1.53 90 N 20 9 3V3-4
+#
+# CMP 10
+CMP 7 2.69 1.385 90 N 12V Header_4 ;0=2,1=0.0000
+TOP 0 2.69 1.385 90 N 2 5 12V-1
+TOP 1 2.69 1.285 90 N 2 4 12V-2
+TOP 2 2.69 1.185 90 N 20 17 12V-3
+TOP 3 2.69 1.085 90 N 20 19 12V-4
+#
+# CMP 11
+CMP 11 1.12 1.0868504 270 N empty_name Header_5 ;0=2,1=0.0000
+TOP 0 1.105 1.0968504 270 N 0 4 empty_name-1
+TOP 1 1.105 1.2984252 270 N 0 2 empty_name-2
+TOP 2 1.105 1.5 270 N 0 3 empty_name-3
+TOP 3 1.105 1.7015748 270 N 11 5 empty_name-4
+TOP 4 1.105 1.9031496 270 N 10 5 empty_name-5
+#
+# CMP 12
+CMP 6 1.82 1.945 0 N RGB Header_3 ;0=2,1=0.0000
+TOP 0 1.82 1.945 0 N 6 1 RGB-1
+TOP 1 1.92 1.945 0 N 5 1 RGB-2
+TOP 2 2.02 1.945 0 N 4 0 RGB-3
+#
+# CMP 13
+CMP 6 2.175 1.945 0 N BGR Header_3 ;0=2,1=0.0000
+TOP 0 2.175 1.945 0 N 9 0 BGR-1
+TOP 1 2.275 1.945 0 N 8 0 BGR-2
+TOP 2 2.375 1.945 0 N 7 0 BGR-3
+#
+# CMP 14
+CMP 11 2.435 1.78 270 N empty_name Inductor ;0=1,1=0.0394
+TOP 0 2.435 1.7463386 180 N 15 1 empty_name-1
+TOP 1 2.435 1.8136614 180 N 3 4 empty_name-2
+#
+# CMP 15
+CMP 11 2.435 1.3351574 270 N empty_name Inductor ;0=1,1=0.0394
+TOP 0 2.435 1.301496 180 N 19 1 empty_name-1
+TOP 1 2.435 1.3688188 180 N 2 15 empty_name-2
+#
+# CMP 16
+CMP 11 1.68 1.27 270 N empty_name Diode_1N4007 ;0=2,1=0.1102
+TOP 0 1.68 1.0640945 270 N 11 6 empty_name-1
+TOP 1 1.68 1.4759055 270 N 1 14 empty_name-2
+#
+# CMP 17
+CMP 11 1.825 1.27 90 N empty_name Diode_1N4007 ;0=2,1=0.1102
+TOP 0 1.825 1.4759055 90 N 20 37 empty_name-1
+TOP 1 1.825 1.0640945 90 N 11 3 empty_name-2
+#
+# CMP 18
+CMP 11 2.085 1.2 180 N empty_name D_Zener ;0=1,1=0.0000
+TOP 0 2.085 1.28 180 N 20 33 empty_name-1
+TOP 1 2.085 1.1 180 N 1 16 empty_name-2
+#
+# CMP 19
+CMP 11 1.53 1.27 270 N empty_name Diode_1N4007 ;0=2,1=0.1102
+TOP 0 1.53 1.0640945 270 N 10 3 empty_name-1
+TOP 1 1.53 1.4759055 270 N 1 15 empty_name-2
+#
+# CMP 20
+CMP 11 1.385 1.27 90 N empty_name Diode_1N4007 ;0=2,1=0.1102
+TOP 0 1.385 1.4759055 90 N 20 38 empty_name-1
+TOP 1 1.385 1.0640945 90 N 10 6 empty_name-2
+#
+# CMP 21
+CMP 11 1.375 1.785 270 N empty_name MOV_place_holder ;0=2,1=0.0000
+TOP 0 1.37 1.695 270 N 11 4 empty_name-1
+TOP 1 1.37 1.8918504 270 N 10 4 empty_name-2
+#
+# CMP 22
+CMP 11 2.39 1.51 180 N empty_name empty_part_name ;0=1,1=0.0217
+TOP 0 2.4073228 1.51 90 N 20 15 empty_name-1
+TOP 1 2.3726771 1.51 90 N 12 2 empty_name-2
+#
+# CMP 23
+CMP 11 2.355 1.7814961 270 N empty_name empty_part_name ;0=1,1=0.0197
+TOP 0 2.355 1.75 180 N 20 25 empty_name-1
+TOP 1 2.355 1.8129921 180 N 3 5 empty_name-2
+#
+# CMP 24
+CMP 11 2.515 1.7814961 270 N empty_name empty_part_name ;0=1,1=0.0197
+TOP 0 2.515 1.75 180 N 20 8 empty_name-1
+TOP 1 2.515 1.8129921 180 N 3 3 empty_name-2
+#
+# CMP 25
+CMP 11 2.56 1.58 270 N empty_name empty_part_name ;0=1,1=0.0217
+TOP 0 2.56 1.5626772 180 N 13 0 empty_name-1
+TOP 1 2.56 1.5973229 180 N 3 7 empty_name-2
+#
+# CMP 26
+CMP 11 2.355 1.6723229 90 N empty_name empty_part_name ;0=1,1=0.0217
+TOP 0 2.355 1.6896457 0 N 20 26 empty_name-1
+TOP 1 2.355 1.655 0 N 2 13 empty_name-2
+#
+# CMP 27
+CMP 11 2.295 1.686496 90 N empty_name empty_part_name ;0=1,1=0.0197
+TOP 0 2.295 1.7179921 0 N 20 27 empty_name-1
+TOP 1 2.295 1.655 0 N 2 12 empty_name-2
+#
+# CMP 28
+CMP 11 2.515 1.6723229 90 N empty_name empty_part_name ;0=1,1=0.0217
+TOP 0 2.515 1.6896457 0 N 20 11 empty_name-1
+TOP 1 2.515 1.655 0 N 2 8 empty_name-2
+#
+# CMP 29
+CMP 11 2.575 1.686496 90 N empty_name empty_part_name ;0=1,1=0.0197
+TOP 0 2.575 1.7179921 0 N 20 6 empty_name-1
+TOP 1 2.575 1.655 0 N 2 6 empty_name-2
+#
+# CMP 30
+CMP 11 2.355 1.595 90 N empty_name empty_part_name ;0=1,1=0.0217
+TOP 0 2.355 1.6123228 0 N 15 4 empty_name-1
+TOP 1 2.355 1.5776771 0 N 14 1 empty_name-2
+#
+# CMP 31
+CMP 11 2.3876772 1.075 180 N empty_name empty_part_name ;0=1,1=0.0217
+TOP 0 2.405 1.075 90 N 20 24 empty_name-1
+TOP 1 2.3703543 1.075 90 N 16 2 empty_name-2
+#
+# CMP 32
+CMP 11 2.355 1.3414961 270 N empty_name empty_part_name ;0=1,1=0.0197
+TOP 0 2.355 1.31 180 N 20 32 empty_name-1
+TOP 1 2.355 1.3729921 180 N 2 17 empty_name-2
+#
+# CMP 33
+CMP 11 2.515 1.3414961 270 N empty_name empty_part_name ;0=1,1=0.0197
+TOP 0 2.515 1.31 180 N 20 10 empty_name-1
+TOP 1 2.515 1.3729921 180 N 2 14 empty_name-2
+#
+# CMP 34
+CMP 11 2.56 1.1423228 270 N empty_name empty_part_name ;0=1,1=0.0217
+TOP 0 2.56 1.125 180 N 17 0 empty_name-1
+TOP 1 2.56 1.1596457 180 N 2 7 empty_name-2
+#
+# CMP 35
+CMP 11 2.515 1.235 90 N empty_name empty_part_name ;0=1,1=0.0217
+TOP 0 2.515 1.2523228 0 N 20 18 empty_name-1
+TOP 1 2.515 1.2176771 0 N 1 7 empty_name-2
+#
+# CMP 36
+CMP 11 2.295 1.25 90 N empty_name empty_part_name ;0=1,1=0.0197
+TOP 0 2.295 1.2814961 0 N 20 36 empty_name-1
+TOP 1 2.295 1.218504 0 N 1 11 empty_name-2
+#
+# CMP 37
+CMP 11 2.355 1.235 90 N empty_name empty_part_name ;0=1,1=0.0217
+TOP 0 2.355 1.2523228 0 N 20 35 empty_name-1
+TOP 1 2.355 1.2176771 0 N 1 10 empty_name-2
+#
+# CMP 38
+CMP 11 2.575 1.25 90 N empty_name empty_part_name ;0=1,1=0.0197
+TOP 0 2.575 1.2814961 0 N 20 16 empty_name-1
+TOP 1 2.575 1.218504 0 N 1 6 empty_name-2
+#
+# CMP 39
+CMP 11 2.355 1.155 90 N empty_name empty_part_name ;0=1,1=0.0217
+TOP 0 2.355 1.1723228 0 N 19 4 empty_name-1
+TOP 1 2.355 1.1376771 0 N 18 1 empty_name-2
+#
+# CMP 40
+CMP 2 1.675 1.74 270 N + Cap2 ;0=2,1=0.4724
+TOP 0 1.6749998 1.6415748 270 N 1 13 +-1
+TOP 1 1.6750002 1.8384252 270 N 20 30 +-2
+#
