@@ -1,1 +1,8 @@
-Record=TopLevelDocument|FileName=analog_front_end.SchDoc
+Record=TopLevelDocument|FileName=analog_adc.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=analog_adc.SchDoc|FileName=analog_adc_front_end.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=analog_adc.SchDoc|FileName=analog_adc_ref_offset.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=analog_adc.SchDoc|FileName=analog_clock_gen.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=analog_adc.SchDoc|FileName=analog_dac.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=analog_adc.SchDoc|FileName=analog_dac_ref_offset.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=analog_adc.SchDoc|FileName=analog_osc_front_end.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=analog_adc.SchDoc|FileName=analog_power.SchDoc|SheetNumber= 

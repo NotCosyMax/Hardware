@@ -10,3 +10,9 @@ TPS65133, WSON
 TLV755 fixed at 1.8V (TLV75518PDQNR)
 TLV751 adjustable (TLV75101PDSQR)
 TPSM53604
+
+
+
+Be oskar om dessa med!!
+
+SN10502 (SOIC)

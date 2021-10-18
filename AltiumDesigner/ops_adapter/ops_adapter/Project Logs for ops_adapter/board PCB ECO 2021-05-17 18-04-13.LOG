@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VDD_IN Pin=P10-1
+Removed Pin From Net: NetName=VDD_12V Pin=P10-2
+Removed Member From Class: ClassName=schema Member=P10
+Change Component Designator: OldDesignator=P18 NewDesignator=P?
+Change Component Designator: OldDesignator=P19 NewDesignator=P?

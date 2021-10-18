@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VDD_IN Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Member From Class: ClassName=schema Member=P2
